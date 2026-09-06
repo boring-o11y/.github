@@ -2,7 +2,22 @@
 
 We provide tools for Laravel for effective monitoring of your application.
 
-## Laravel Skyline
+Follow us:
+- X [BoringO11y](https://x.com/BoringO11y)
+- BlueSky [boring-o11y.bsky.social](http://boring-o11y.bsky.social/)
+- Mastodon [@BoringObservability](https://phpc.social/@BoringObservability)
+
+Check out our blog: https://boring-observability.dev/blog
+
+## Free packages
+- [horizon-delayed-jobs](https://github.com/boring-o11y/horizon-delayed-jobs) - Delayed job controls for Laravel Horizon.
+- [httptheus](https://github.com/boring-o11y/httptheus) - Prometheus exporter and Grafana dashboard for outbound Http requests.
+- [skystan](https://github.com/boring-o11y/skystan) - A PHPStan extension to enforce correct usage of Laravel background jobs.
+- [wirestan](https://github.com/boring-o11y/wirestan) - A collection of PHPStan rules for correct LiveWire usage.
+
+## Paid packages
+
+### Laravel Skyline
 
 Production queue control for Laravel Horizon.
 
@@ -17,7 +32,7 @@ your own servers — no agent, no data egress.
 
 Built and run in production by the team at Boring Observability.
 
-**🔭 Early access — September 2026 → [boring-observability.dev/skyline](https://boring-observability.dev)**
+[boring-observability.dev/skyline](https://boring-observability.dev)
 
 ---
 
