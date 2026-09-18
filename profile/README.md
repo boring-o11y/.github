@@ -12,12 +12,12 @@ Check out our blog: https://boring-observability.dev/blog
 ## Free packages
 - [horizon-delayed-jobs](https://github.com/boring-o11y/horizon-delayed-jobs) - Delayed job controls for Laravel Horizon.
 - [httptheus](https://github.com/boring-o11y/httptheus) - Prometheus exporter and Grafana dashboard for outbound Http requests.
-- [skystan](https://github.com/boring-o11y/skystan) - A PHPStan extension to enforce correct usage of Laravel background jobs.
+- [unique-job-middleware](https://github.com/boring-o11y/unique-job-middleware) - A Laravel middleware to ensure unique jobs stay unique.
 - [wirestan](https://github.com/boring-o11y/wirestan) - A collection of PHPStan rules for correct LiveWire usage.
 
 ## Paid packages
 
-### Laravel Skyline
+### Skyline
 
 Production queue control for Laravel Horizon.
 
@@ -34,6 +34,12 @@ Built and run in production by the team at Boring Observability.
 
 [boring-observability.dev/skyline](https://boring-observability.dev)
 
+### Requizon
+See every call your app makes out.
+
+<img width="2160" height="1275" alt="requizon" src="https://github.com/user-attachments/assets/65729606-d886-487a-befa-f35084461f92" />
+
+[requizon.boring-observability.dev](https://requizon.boring-observability.dev)
 ---
 
 <sub>Not affiliated with or endorsed by Laravel LLC. Laravel and Laravel Horizon
