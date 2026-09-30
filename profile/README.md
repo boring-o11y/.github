@@ -11,7 +11,9 @@ Check out our blog: https://boring-observability.dev/blog
 
 ## Free packages
 - [horizon-delayed-jobs](https://github.com/boring-o11y/horizon-delayed-jobs) - Delayed job controls for Laravel Horizon.
+- [horizon-worker-stats](https://github.com/boring-o11y/horizon-worker-stats) - Memory and CPU stats in Laravel Horizon.
 - [httptheus](https://github.com/boring-o11y/httptheus) - Prometheus exporter and Grafana dashboard for outbound Http requests.
+- [horizon-prometheus-exporter](https://github.com/boring-o11y/horizon-prometheus-exporter) - Per job exporter and Grafana dashboard for Horizon.
 - [unique-job-middleware](https://github.com/boring-o11y/unique-job-middleware) - A Laravel middleware to ensure unique jobs stay unique.
 - [wirestan](https://github.com/boring-o11y/wirestan) - A collection of PHPStan rules for correct LiveWire usage.
 
