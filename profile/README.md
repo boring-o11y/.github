@@ -34,14 +34,20 @@ your own servers — no agent, no data egress.
 
 Built and run in production by the team at Boring Observability.
 
-[boring-observability.dev/skyline](https://boring-observability.dev)
+[boring-observability.dev/skyline](https://boring-observability.dev/skyline)
 
 ### Requizon
 See every call your app makes out.
 
 <img width="2160" height="1275" alt="requizon" src="https://github.com/user-attachments/assets/65729606-d886-487a-befa-f35084461f92" />
 
-[requizon.boring-observability.dev](https://requizon.boring-observability.dev)
+[boring-observability.dev/requizon](https://boring-observability.dev/requizon)
+
+### Sailfish
+MySQL and Redis insights. Coming soon. 
+
+[boring-observability.dev/sailfish](https://boring-observability.dev/sailfish)
+
 ---
 
 <sub>Not affiliated with or endorsed by Laravel LLC. Laravel and Laravel Horizon
